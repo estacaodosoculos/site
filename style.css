@@ -292,7 +292,7 @@ header .fa-bars{
         display: block;
     }
     .home{
-        margin: 50px;
+        margin-top: 50px;
     }
 }
 @media (max-width:450px){
